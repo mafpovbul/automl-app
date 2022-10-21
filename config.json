@@ -1,0 +1,16 @@
+{
+    "db":{
+        "host": "localhost",
+        "port": "5432",
+        "database": "tpc-h",
+        "username": "postgres",
+        "password": "Password1!"   
+    },
+    "cli":{
+        "desc_plan": true,
+        "debug_plan": false
+    },
+    "log":{
+        "log_path": "data/"
+    }
+}
